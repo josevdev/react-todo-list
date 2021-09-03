@@ -1,5 +1,6 @@
 import React from 'react';
 import Todo from './Todo';
+import './TodoList.css';
 
 const TodoList = ( {filteredTodos, todos, setTodos} ) => {
   return(
