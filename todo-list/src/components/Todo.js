@@ -21,7 +21,7 @@ const Todo = ( {text, todo, todos, setTodos} ) => {
   }
 
   return(
-    <div className='todo input-group'>
+    <div className='todo input-group mb-3'>
       <li className={ `todo-item form-control ${todo.completed ? 'completed' : ''}` }>
         {text}
       </li>
