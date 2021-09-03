@@ -39,9 +39,9 @@ const Form = ( {inputText, setInputText, todos, setTodos, setStatus} ) => {
           name="todos"
           onChange={statusHandler}
         >
-          <option value="all">All</option>
-          <option value="completed">Completed</option>
-          <option value="uncompleted">Uncompleted</option>
+          <option value="all">All Todos</option>
+          <option value="completed">Completed Todos</option>
+          <option value="uncompleted">Uncompleted Todos</option>
         </select>
       </div>
     </form>
