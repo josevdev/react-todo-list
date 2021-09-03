@@ -46,7 +46,7 @@ function App() {
   }
 
   return (
-    <div className="App">
+    <div className="App col-lg-6 offset-lg-3">
       <header>
         <h1>Todo List</h1>
       </header>
