@@ -1,4 +1,10 @@
-.completed {
-  color: lightgray;
-  text-decoration: line-through;
-}
+.todo-item {
+  border: none;
+  border-bottom: 1px solid lightgray;
+  border-radius: 0;
+  margin-right: 10px;
+  }
+  .completed {
+    color: lightgray;
+    text-decoration: line-through;
+  }
