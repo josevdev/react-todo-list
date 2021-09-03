@@ -1,5 +1,5 @@
 import React from 'react';
-import * as styles from './Todo.css';
+import './Todo.css';
 
 const Todo = ( {text, todo, todos, setTodos} ) => {
   const deleteHandler = (el) => {
