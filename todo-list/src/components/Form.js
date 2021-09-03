@@ -35,7 +35,7 @@ const Form = ( {inputText, setInputText, todos, setTodos, setStatus} ) => {
       </div>
       <div className="select">
         <select
-          className="filter-todo"
+          className="filter-todo form-select mb-3"
           name="todos"
           onChange={statusHandler}
         >
