@@ -27,7 +27,7 @@ const Form = ( {inputText, setInputText, todos, setTodos, setStatus} ) => {
           onChange={inputTextHandler}
         />
         <button
-          className="todo-button btn btn-success"
+          className="todo-button btn btn-primary"
           type="submit"
           onClick={submitTodoHandler}
         >
