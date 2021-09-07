@@ -1,6 +1,5 @@
-![Todo List screenshot](https://github.com/josevdev/react-todo-list/blob/main/screenshot.jpg)
-
 # react-todo-list
+![Todo List screenshot](https://github.com/josevdev/react-todo-list/blob/main/screenshot.jpg)
 based on the tutorial https://youtu.be/pCA4qpQDZD8
 
 # Modifications
