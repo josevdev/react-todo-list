@@ -50,6 +50,7 @@ function App() {
       <header>
         <h1>Todo List</h1>
       </header>
+      <p>A simple and free todo app that also saves your items after browser closing.</p>
       <Form
         inputText={inputText}
         setInputText={setInputText}
